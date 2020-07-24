@@ -1,0 +1,19 @@
+{
+  "name": "restaurant_page",
+  "version": "1.0.0",
+  "description": "learning webpack and es6 modules",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "restaurant_page"
+  },
+  "author": "Ibunhabib",
+  "license": "MIT",
+  "devDependencies": {
+    "webpack": "^4.43.0",
+    "webpack-cli": "^3.3.12"
+  }
+}
