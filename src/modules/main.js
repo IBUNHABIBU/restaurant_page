@@ -8,9 +8,9 @@ const createHeader = () => {
   header.appendChild(nav);
   const ul = document.createElement('ul');
   nav.appendChild(ul);
-  ul.innerHTML =  `<li><a href="#" class="fs-20">Home</a></li>
-  <li><a href="#" class="fs-20">Menu</a></li>
-  <li><a href="#" class="fs-20">Contact Us</a></li>`;
+  ul.innerHTML =  `<li><a href="" class="fs-20">Home</a></li>
+  <li><a href="#" class="fs-20" id="myMenu" >Menu</a></li>
+  <li><a href="" class="fs-20">Contact Us</a></li>`;
   return header;
 }
 const createFooter = () => {
