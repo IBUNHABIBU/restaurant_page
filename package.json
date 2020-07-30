@@ -11,7 +11,7 @@
     "webpack-cli": "^3.3.12"
   },
   "scripts": {
-    "build": "webpack"
+    "build": "webpack --mode=development"
   },
   "repository": {
     "type": "git",
