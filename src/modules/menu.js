@@ -18,7 +18,7 @@ const createMenu = () => {
    content.appendChild(row);
    row.style.marginTop = '2rem';
    const main = document.querySelector('.mainpage');
-   main.style.display = 'none';
+   main.className = 'ld-none';
    return content;
 }
 // const createHomepage = () => {
