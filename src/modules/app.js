@@ -1,5 +1,4 @@
-import loadMainPage from './navigation';
-// import createHomePage from './main';
+import loadMainPage from './main';
 function init() {
 	loadMainPage();
 	// createHomePage();
