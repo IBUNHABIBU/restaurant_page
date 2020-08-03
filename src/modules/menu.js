@@ -1,4 +1,5 @@
-const createMenu = () => {
+const createMenu = (e) => {
+  e.preventDefault();
   // const article = document.querySelector('article');
   const row = document.createElement('div');
   row.className = 'row';

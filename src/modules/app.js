@@ -9,8 +9,6 @@ const navbar = () => {
 }
 function init() {
 	loadMainPage();
-	// createHomePage();
 	navbar();
-	
 }
 init();

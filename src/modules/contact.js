@@ -1,4 +1,5 @@
-const createContact = () => {
+const createContact = (e) => {
+  e.preventDefault();
   const h2 = document.createElement('h2');
   h2.textContent = 'Have a question or want to learn more? Contact us!';
   let p = document.createElement('p');
