@@ -13,10 +13,10 @@ const createMenu = () => {
                     <h3><a href="#" class=" maroon fs-20">Dinner</a></h3>
                     <img class="imagestyle" src="https://scontent-xsp1-2.cdninstagram.com/v/t51.2885-15/e35/109696460_741304829979989_7568604957456882165_n.jpg?_nc_ht=scontent-xsp1-2.cdninstagram.com&_nc_cat=105&_nc_ohc=ZDdrcDwBq4wAX9ckQjH&oh=8e836ac9411e3b296911a3304ea2db44&oe=5F492C40" style="width:90%;" alt="image">
                   </div> `;
-                   const content = document.querySelector('main');
-                   content.innerHTML = '';
-   content.appendChild(row);
-   row.style.marginTop = '2rem';
-   return content;
-}
+  const content = document.querySelector('main');
+  content.innerHTML = '';
+  content.appendChild(row);
+  row.style.marginTop = '2rem';
+  return content;
+};
 export default createMenu;

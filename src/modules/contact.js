@@ -19,5 +19,5 @@ const createContact = (e) => {
   div.appendChild(p);
   content.appendChild(div);
   return content;
-}
+};
 export default createContact;

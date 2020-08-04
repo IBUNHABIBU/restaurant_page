@@ -15,7 +15,7 @@ const createHeader = () => {
     </span>
   </label>`;
   return header;
-}
+};
 const createFooter = () => {
   const footer = document.createElement('footer');
   footer.innerHTML = `<div class="foot">
@@ -25,8 +25,8 @@ const createFooter = () => {
                           </div>
                         </div>
                       </div>`;
-                      return footer;
-}
+  return footer;
+};
 const createHomepage = () => {
   const main = document.createElement('main');
   const sect = document.createElement('section');
@@ -41,14 +41,14 @@ const createHomepage = () => {
   h2.textContent = 'Tiresome and hungry just give us a call and wait for a while we’ll be there at your door.';
   mainPage.appendChild(h2);
   return main;
-}
+};
 const loadMainPage = () => {
   const content = document.getElementById('content');
-	const header = createHeader();
+  const header = createHeader();
   content.appendChild(header);
   const main = createHomepage();
   content.appendChild(main);
   const footer = createFooter();
   content.appendChild(footer);
-}
+};
 export default loadMainPage;
