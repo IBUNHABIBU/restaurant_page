@@ -118,7 +118,9 @@ html {
 .c-l-12 {
   flex: 0 0 100;
 }
-
+main{
+  height: 78vh;
+}
 .mainpage {
   background-image: url("https://scontent-lga3-2.cdninstagram.com/v/t51.2885-15/e35/115891281_2770961453125606_8068477293517739399_n.jpg?_nc_ht=scontent-lga3-2.cdninstagram.com&_nc_cat=110&_nc_ohc=T96Sxt9PV_wAX-rhrN4&oh=b927e8686ba382b0d7a1f366637bdf57&oe=5F4965A3");
   background-repeat: no-repeat;
@@ -158,7 +160,10 @@ html {
 a {
   text-decoration: none;
 }
-
+.cont{
+  padding-left: 18rem;
+  padding-top: 8rem;
+}
 @media only screen and (min-width: 778px) {
   header {
     display: grid;
