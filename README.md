@@ -26,7 +26,8 @@ Is the Javascript  quiz to implement modular programming using webpack. I made a
 
 ## Usage
 Clone this repository 
- `$then open the html code using desired browser` 
+ `$npm install` 
+ `$npm run build`
  
 
 ## [Live demo](https://raw.githack.com/IBUNHABIBU/restaurant_page/modules/dist/index.html "Of the project") of the project
