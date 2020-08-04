@@ -29,7 +29,7 @@ Clone this repository
  `$then open the html code using desired browser` 
  
 
-## [Live demo](https://rawcdn.githack.com/IBUNHABIBU/library/43f8b5aa5ef6ae7d81689dd0e958fcbdf4782fff/booklibrary.html "Of the project") of the project
+## [Live demo](https://raw.githack.com/IBUNHABIBU/restaurant_page/modules/dist/index.html "Of the project") of the project
 
 ## link to  [Video presentation](https://#"Loom")
 
