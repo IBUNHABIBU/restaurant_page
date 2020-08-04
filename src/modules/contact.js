@@ -13,7 +13,7 @@ const createContact = (e) => {
   const content = document.querySelector('main');
   content.innerHTML = ''
   const div = document.createElement('div');
-  div.classList.add('cont');
+  div.classList.add('main-para');
   div.appendChild(h2);
   div.appendChild(p);
   div.appendChild(p);

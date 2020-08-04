@@ -1,16 +1,19 @@
 const createHeader = () => {
   const header = document.createElement('header');
-  const nav = document.createElement('nav');
-  const logo = document.createElement('div');
-  logo.className = 'logo';
-  header.appendChild(logo);
-  logo.innerHTML = `<img src="../src/images/logo.PNG" alt="logo" width="60" height="40">`;
-  header.appendChild(nav);
-  const ul = document.createElement('ul');
-  nav.appendChild(ul);
-  ul.innerHTML =  `<li><a href="" class="fs-20">Home</a></li>
-  <li><a href="#" class="fs-20" id="myMenu" >Menu</a></li>
-  <li><a href="#" class="fs-20" id="contact">Contact Us</a></li>`;
+  header.innerHTML = `<div class="logo"><img src="../src/images/logo.PNG" alt="logo" width="60" height="40"></div>
+  <input type="checkbox" id="nav-toggle" class="nav-toggle">
+  <nav>
+    <ul>
+    <li><a href="" class="fs-20">Home</a></li>
+    <li><a href="#" class="fs-20" id="myMenu" >Menu</a></li>
+    <li><a href="#" class="fs-20" id="contact">Contact Us</a></li>
+    </ul>
+  </nav>
+  <label for="nav-toggle" class="nav-toggle-label" id="navtoggle">
+    <span>
+      <i class="fas fa-bars fs-20"></i>
+    </span>
+  </label>`
   return header;
 }
 const createFooter = () => {
