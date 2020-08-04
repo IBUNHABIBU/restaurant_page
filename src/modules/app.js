@@ -3,9 +3,9 @@ import createMenu from './menu';
 import createContact from './contact';
 const navbar = () => {
 	const menu = document.getElementById('myMenu');
-	menu.addEventListener('click',createMenu);
+	menu.addEventListener('click', createMenu);
 	const contact = document.getElementById('contact');
-	contact.addEventListener('click',createContact);
+	contact.addEventListener('click', createContact);
 }
 function init() {
 	loadMainPage();

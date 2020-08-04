@@ -13,7 +13,7 @@ const createHeader = () => {
     <span>
       <i class="fas fa-bars fs-20"></i>
     </span>
-  </label>`
+  </label>`;
   return header;
 }
 const createFooter = () => {
