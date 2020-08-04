@@ -10,12 +10,13 @@ const createContact = (e) => {
   p.classList.add('mgt');
   h2.classList.add('mgl');
   h2.classList.add('mgt');
-  const content = document.getElementById('content');
+  const content = document.querySelector('main');
+  content.innerHTML = '';
   content.appendChild(h2);
   content.appendChild(p);
   content.appendChild(p);
-  const main = document.querySelector('.mainpage');
-   main.className = 'ld-none'; 
+  // const main = document.querySelector('.mainpage');
+  // main.className = 'ld-none'; 
   return content;
 }
 export default createContact;
