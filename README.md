@@ -32,6 +32,7 @@
 ## Requirement 
 * HTML
 * CSS
+* NPM
 * JAVASCRIPT
 * Webpack
 
