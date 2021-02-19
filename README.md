@@ -32,8 +32,8 @@
 ## Requirement 
 * HTML
 * CSS
-* NPM
 * JAVASCRIPT
+* NPM
 * Webpack
 
 ## Usage
