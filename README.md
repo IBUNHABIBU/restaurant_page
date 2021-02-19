@@ -6,8 +6,8 @@
 <br />
 
 <p align="center">
-  <a href="git@github.com:IBUNHABIBU/platform-game.git">
-    <p align="center"> <img src="https://raw.githubusercontent.com/github/explore/b7c8510756ee50efb38d1f01896e72b7a9737296/topics/phaser/phaser.png" alt="Phaser" width="100" height="100"> </p>
+  <a href="git@github.com:IBUNHABIBU/restaurant_page.git">
+    <p align="center"> <img src="https://raw.githubusercontent.com/github/explore/b7c8510756ee50efb38d1f01896e72b7a9737296/topics/javascript/javascript.png" alt="Phaser" width="100" height="100"> </p>
   </a>
 
   <h2 align="center"> RESTAURANT PAGE</h2>
