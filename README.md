@@ -1,6 +1,17 @@
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
 
-﻿# RESTAURANT PAGE
-Is the Javascript  quiz to implement modular programming using webpack. I made a simple restaurant page to see the menu and contact. In the styling I used my own css framework that I built when I was doing html and css curriculum.
+<br />
+
+<p align="center">
+  <a href="git@github.com:IBUNHABIBU/platform-game.git">
+    <p align="center"> <img src="https://raw.githubusercontent.com/github/explore/b7c8510756ee50efb38d1f01896e72b7a9737296/topics/phaser/phaser.png" alt="Phaser" width="100" height="100"> </p>
+  </a>
+
+  <h2 align="center"> RESTAURANT PAGE</h2>
+  <h3 align="center"> Is the Javascript  quiz to implement modular programming using webpack. I made a simple restaurant page to see the menu and contact. In the styling I used my own css framework that I built when I was doing html and css curriculum.</h3>
 
 ![screenshot](https://github.com/IBUNHABIBU/restaurant_page/blob/modules/src/images/home.PNG)
 ![screenshot](https://github.com/IBUNHABIBU/restaurant_page/blob/modules/src/images/menu.PNG)
