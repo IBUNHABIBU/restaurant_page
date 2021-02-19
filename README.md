@@ -25,9 +25,9 @@
 * My custom made css framework
 
 ## Features 
-    * Showing the home page with navbar and the landing page with the big food image.
-    * Showing the menu
-    * Showing the contact
+* Showing the home page with navbar and the landing page with the big food image.
+* Showing the menu
+* Showing the contact
   
 ## Requirement 
 * HTML
